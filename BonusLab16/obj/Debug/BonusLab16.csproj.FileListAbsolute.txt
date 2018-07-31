@@ -1,0 +1,7 @@
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.exe.config
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.pdb
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.csprojAssemblyReference.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.csproj.CoreCompileInputs.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.pdb
