@@ -89,6 +89,7 @@ namespace BonusLab16
         #endregion Properties
 
         //Constructor
+        #region Constructor
         public Car()
         {
 
@@ -102,16 +103,14 @@ namespace BonusLab16
             Price = uPrice;
         }
 
+        #endregion
+
 
         //Methods
 
-        public static void PrintInfo(List<Car> car)
+        public virtual void PrintInfo(List<Car> car)
         {
-            Console.WriteLine("Current Inventory: \n");
-            foreach (Car e in car)
-            {
-                Console.WriteLine($"{e.Make}\t {e.Model}\t {e.Year.ToString()}\t {e.Price.ToString()}\t");
-            }
+                Console.Write($"{Make, -10} {Model, -10} {Year.ToString(), -10} {String.Format($"{Price:c}"),-10}");
         }
 
 
